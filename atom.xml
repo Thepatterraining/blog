@@ -1,0 +1,581 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>dream</title>
+  
+  <subtitle>一个菜鸟程序员的成长历程</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://thepatterraining.github.io/"/>
+  <updated>2021-03-19T04:35:42.840Z</updated>
+  <id>https://thepatterraining.github.io/</id>
+  
+  <author>
+    <name>Thepatter</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>ElasticSearch一--ES简介</title>
+    <link href="https://thepatterraining.github.io/ES--%E7%AE%80%E4%BB%8B.html"/>
+    <id>https://thepatterraining.github.io/ES--%E7%AE%80%E4%BB%8B.html</id>
+    <published>2021-03-18T16:00:00.000Z</published>
+    <updated>2021-03-19T04:35:42.840Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;ES–简介&quot;&gt;&lt;a href=&quot;#ES–简介&quot; class=&quot;headerlink&quot; title=&quot;ES–简介&quot;&gt;&lt;/a&gt;ES–简介&lt;/h1&gt;&lt;h2 id=&quot;起源&quot;&gt;&lt;a href=&quot;#起源&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="ES" scheme="https://thepatterraining.github.io/categories/ES/"/>
+    
+    
+      <category term="ES" scheme="https://thepatterraining.github.io/tags/ES/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>数据链路层CRC(循环冗余码)差错校验码详解</title>
+    <link href="https://thepatterraining.github.io/%E6%95%B0%E6%8D%AE%E9%93%BE%E8%B7%AF%E5%B1%82CRC%E5%B7%AE%E9%94%99%E6%A0%A1%E9%AA%8C%E7%A0%81%E8%AF%A6%E8%A7%A3.html"/>
+    <id>https://thepatterraining.github.io/%E6%95%B0%E6%8D%AE%E9%93%BE%E8%B7%AF%E5%B1%82CRC%E5%B7%AE%E9%94%99%E6%A0%A1%E9%AA%8C%E7%A0%81%E8%AF%A6%E8%A7%A3.html</id>
+    <published>2020-12-26T07:28:49.000Z</published>
+    <updated>2021-02-02T09:03:31.460Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;数据链路层CRC-循环冗余码-差错校验码详解&quot;&gt;&lt;a href=&quot;#数据链路层CRC-循环冗余码-差错校验码详解&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="计算机网络" scheme="https://thepatterraining.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/"/>
+    
+    
+      <category term="计算机网络" scheme="https://thepatterraining.github.io/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>网络原理自顶向下四网络层</title>
+    <link href="https://thepatterraining.github.io/%E7%BD%91%E7%BB%9C%E5%8E%9F%E7%90%86%E8%87%AA%E9%A1%B6%E5%90%91%E4%B8%8B%E4%BA%94%E6%95%B0%E6%8D%AE%E9%93%BE%E8%B7%AF%E5%B1%82.html"/>
+    <id>https://thepatterraining.github.io/%E7%BD%91%E7%BB%9C%E5%8E%9F%E7%90%86%E8%87%AA%E9%A1%B6%E5%90%91%E4%B8%8B%E4%BA%94%E6%95%B0%E6%8D%AE%E9%93%BE%E8%B7%AF%E5%B1%82.html</id>
+    <published>2020-12-26T07:28:49.000Z</published>
+    <updated>2021-02-04T03:59:17.740Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;数据链路层&quot;&gt;&lt;a href=&quot;#数据链路层&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="计算机网络" scheme="https://thepatterraining.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/"/>
+    
+    
+      <category term="计算机网络" scheme="https://thepatterraining.github.io/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>网络原理自顶向下四网络层</title>
+    <link href="https://thepatterraining.github.io/%E7%BD%91%E7%BB%9C%E5%8E%9F%E7%90%86%E8%87%AA%E9%A1%B6%E5%90%91%E4%B8%8B%E5%9B%9B%E7%BD%91%E7%BB%9C%E5%B1%82.html"/>
+    <id>https://thepatterraining.github.io/%E7%BD%91%E7%BB%9C%E5%8E%9F%E7%90%86%E8%87%AA%E9%A1%B6%E5%90%91%E4%B8%8B%E5%9B%9B%E7%BD%91%E7%BB%9C%E5%B1%82.html</id>
+    <published>2020-12-26T07:28:49.000Z</published>
+    <updated>2021-02-07T07:23:04.590Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;网络层&quot;&gt;&lt;a href=&quot;#网络层&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="计算机网络" scheme="https://thepatterraining.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/"/>
+    
+    
+      <category term="计算机网络" scheme="https://thepatterraining.github.io/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>网络原理自顶向下三可靠数据传输原理实现GBN滑动窗口协议</title>
+    <link href="https://thepatterraining.github.io/%E7%BD%91%E7%BB%9C%E5%8E%9F%E7%90%86%E8%87%AA%E9%A1%B6%E5%90%91%E4%B8%8B%E4%B8%89%E5%8F%AF%E9%9D%A0%E6%95%B0%E6%8D%AE%E4%BC%A0%E8%BE%93%E5%8E%9F%E7%90%86%E5%AE%9E%E7%8E%B0GBN%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%E5%8D%8F%E8%AE%AE.html"/>
+    <id>https://thepatterraining.github.io/%E7%BD%91%E7%BB%9C%E5%8E%9F%E7%90%86%E8%87%AA%E9%A1%B6%E5%90%91%E4%B8%8B%E4%B8%89%E5%8F%AF%E9%9D%A0%E6%95%B0%E6%8D%AE%E4%BC%A0%E8%BE%93%E5%8E%9F%E7%90%86%E5%AE%9E%E7%8E%B0GBN%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%E5%8D%8F%E8%AE%AE.html</id>
+    <published>2020-12-12T07:28:49.000Z</published>
+    <updated>2020-12-28T04:41:00.640Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;网络原理自顶向下三可靠数据传输原理实现GBN滑动窗口协议&quot;&gt;&lt;a href=&quot;#网络原理自顶向下三可靠数据传输原理实现GBN滑动窗口协议&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="计算机网络" scheme="https://thepatterraining.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/"/>
+    
+    
+      <category term="计算机网络" scheme="https://thepatterraining.github.io/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>网络原理自顶向下三可靠数据传输原理实现SR选择重传协议</title>
+    <link href="https://thepatterraining.github.io/%E7%BD%91%E7%BB%9C%E5%8E%9F%E7%90%86%E8%87%AA%E9%A1%B6%E5%90%91%E4%B8%8B%E4%B8%89%E5%8F%AF%E9%9D%A0%E6%95%B0%E6%8D%AE%E4%BC%A0%E8%BE%93%E5%8E%9F%E7%90%86%E5%AE%9E%E7%8E%B0SR%E9%80%89%E6%8B%A9%E9%87%8D%E4%BC%A0%E5%8D%8F%E8%AE%AE.html"/>
+    <id>https://thepatterraining.github.io/%E7%BD%91%E7%BB%9C%E5%8E%9F%E7%90%86%E8%87%AA%E9%A1%B6%E5%90%91%E4%B8%8B%E4%B8%89%E5%8F%AF%E9%9D%A0%E6%95%B0%E6%8D%AE%E4%BC%A0%E8%BE%93%E5%8E%9F%E7%90%86%E5%AE%9E%E7%8E%B0SR%E9%80%89%E6%8B%A9%E9%87%8D%E4%BC%A0%E5%8D%8F%E8%AE%AE.html</id>
+    <published>2020-12-12T07:28:49.000Z</published>
+    <updated>2020-12-28T04:41:00.640Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;网络原理自顶向下三可靠数据传输原理实现SR选择重传协议&quot;&gt;&lt;a href=&quot;#网络原理自顶向下三可靠数据传输原理实现SR选择重传协议&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="计算机网络" scheme="https://thepatterraining.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/"/>
+    
+    
+      <category term="计算机网络" scheme="https://thepatterraining.github.io/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>网络原理自顶向下三可靠数据传输原理实现停等协议</title>
+    <link href="https://thepatterraining.github.io/%E7%BD%91%E7%BB%9C%E5%8E%9F%E7%90%86%E8%87%AA%E9%A1%B6%E5%90%91%E4%B8%8B%E4%B8%89%E5%8F%AF%E9%9D%A0%E6%95%B0%E6%8D%AE%E4%BC%A0%E8%BE%93%E5%8E%9F%E7%90%86%E5%AE%9E%E7%8E%B0%E5%81%9C%E7%AD%89%E5%8D%8F%E8%AE%AE.html"/>
+    <id>https://thepatterraining.github.io/%E7%BD%91%E7%BB%9C%E5%8E%9F%E7%90%86%E8%87%AA%E9%A1%B6%E5%90%91%E4%B8%8B%E4%B8%89%E5%8F%AF%E9%9D%A0%E6%95%B0%E6%8D%AE%E4%BC%A0%E8%BE%93%E5%8E%9F%E7%90%86%E5%AE%9E%E7%8E%B0%E5%81%9C%E7%AD%89%E5%8D%8F%E8%AE%AE.html</id>
+    <published>2020-12-12T07:28:49.000Z</published>
+    <updated>2020-12-28T04:41:00.640Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;网络原理自顶向下三可靠数据传输原理实现停等协议&quot;&gt;&lt;a href=&quot;#网络原理自顶向下三可靠数据传输原理实现停等协议&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="计算机网络" scheme="https://thepatterraining.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/"/>
+    
+    
+      <category term="计算机网络" scheme="https://thepatterraining.github.io/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>网络原理自顶向下三运输层</title>
+    <link href="https://thepatterraining.github.io/%E7%BD%91%E7%BB%9C%E5%8E%9F%E7%90%86%E8%87%AA%E9%A1%B6%E5%90%91%E4%B8%8B%E4%B8%89%E8%BF%90%E8%BE%93%E5%B1%82.html"/>
+    <id>https://thepatterraining.github.io/%E7%BD%91%E7%BB%9C%E5%8E%9F%E7%90%86%E8%87%AA%E9%A1%B6%E5%90%91%E4%B8%8B%E4%B8%89%E8%BF%90%E8%BE%93%E5%B1%82.html</id>
+    <published>2020-12-12T07:28:49.000Z</published>
+    <updated>2021-01-07T02:44:04.820Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;运输层&quot;&gt;&lt;a href=&quot;#运输层&quot; class=&quot;headerlink&quot; title=&quot;运输层&quot;&gt;&lt;/a&gt;运输层&lt;/h1&gt;&lt;h2 id=&quot;运输层和网络层的关系&quot;&gt;&lt;a href=&quot;#运输层和网络层的关系&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="计算机网络" scheme="https://thepatterraining.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/"/>
+    
+    
+      <category term="计算机网络" scheme="https://thepatterraining.github.io/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>ubuntu安装supervisor守护进程</title>
+    <link href="https://thepatterraining.github.io/ubuntu%E5%AE%89%E8%A3%85supervisor%E5%AE%88%E6%8A%A4%E8%BF%9B%E7%A8%8B.html"/>
+    <id>https://thepatterraining.github.io/ubuntu%E5%AE%89%E8%A3%85supervisor%E5%AE%88%E6%8A%A4%E8%BF%9B%E7%A8%8B.html</id>
+    <published>2020-12-09T02:12:47.000Z</published>
+    <updated>2020-12-14T04:33:03.230Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;supervisor&quot;&gt;&lt;a href=&quot;#supervisor&quot; class=&quot;headerlink&quot; title=&quot;supervisor&quot;&gt;&lt;/a&gt;supervisor&lt;/h1&gt;&lt;p&gt;supervisor是一个守护进程软件。&lt;/p&gt;
+&lt;h2
+        
+      
+    
+    </summary>
+    
+    
+      <category term="小工具" scheme="https://thepatterraining.github.io/categories/%E5%B0%8F%E5%B7%A5%E5%85%B7/"/>
+    
+    
+      <category term="supervisor" scheme="https://thepatterraining.github.io/tags/supervisor/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>php-simplexml解析一个或多个结构的坑</title>
+    <link href="https://thepatterraining.github.io/php-simplexml%E8%A7%A3%E6%9E%90%E4%B8%80%E4%B8%AA%E6%88%96%E5%A4%9A%E4%B8%AA%E7%BB%93%E6%9E%84%E7%9A%84%E5%9D%91.html"/>
+    <id>https://thepatterraining.github.io/php-simplexml%E8%A7%A3%E6%9E%90%E4%B8%80%E4%B8%AA%E6%88%96%E5%A4%9A%E4%B8%AA%E7%BB%93%E6%9E%84%E7%9A%84%E5%9D%91.html</id>
+    <published>2020-08-25T02:12:47.000Z</published>
+    <updated>2020-12-14T04:34:22.990Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;php-simplexml解析一个或多个结构的坑&quot;&gt;&lt;a href=&quot;#php-simplexml解析一个或多个结构的坑&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="php" scheme="https://thepatterraining.github.io/categories/php/"/>
+    
+    
+      <category term="php" scheme="https://thepatterraining.github.io/tags/php/"/>
+    
+      <category term="xml" scheme="https://thepatterraining.github.io/tags/xml/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>php-thinkphp-报错Creating default object from empty value</title>
+    <link href="https://thepatterraining.github.io/php-thinkphp-%E6%8A%A5%E9%94%99Creating%20default%20object%20from%20empty%20value.html"/>
+    <id>https://thepatterraining.github.io/php-thinkphp-%E6%8A%A5%E9%94%99Creating%20default%20object%20from%20empty%20value.html</id>
+    <published>2020-08-25T02:12:47.000Z</published>
+    <updated>2020-12-14T04:34:22.990Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;php-thinkphp-报错Creating-default-object-from-empty-value&quot;&gt;&lt;a href=&quot;#php-thinkphp-报错Creating-default-object-from-empty-value&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="php" scheme="https://thepatterraining.github.io/categories/php/"/>
+    
+    
+      <category term="php" scheme="https://thepatterraining.github.io/tags/php/"/>
+    
+      <category term="thinkphp" scheme="https://thepatterraining.github.io/tags/thinkphp/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>thinkphp-queue队列使用</title>
+    <link href="https://thepatterraining.github.io/thinkphp-queue%E9%98%9F%E5%88%97%E4%BD%BF%E7%94%A8.html"/>
+    <id>https://thepatterraining.github.io/thinkphp-queue%E9%98%9F%E5%88%97%E4%BD%BF%E7%94%A8.html</id>
+    <published>2020-08-25T02:12:47.000Z</published>
+    <updated>2020-12-14T04:34:22.990Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;thinkphp-queue队列使用&quot;&gt;&lt;a href=&quot;#thinkphp-queue队列使用&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="php" scheme="https://thepatterraining.github.io/categories/php/"/>
+    
+    
+      <category term="php" scheme="https://thepatterraining.github.io/tags/php/"/>
+    
+      <category term="thinkphp" scheme="https://thepatterraining.github.io/tags/thinkphp/"/>
+    
+      <category term="queue" scheme="https://thepatterraining.github.io/tags/queue/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>thinkphp-queue队列导致MySQL server has gone away</title>
+    <link href="https://thepatterraining.github.io/thinkphp-queue%E9%98%9F%E5%88%97%E5%AF%BC%E8%87%B4MySQL%20server%20has%20gone%20away.html"/>
+    <id>https://thepatterraining.github.io/thinkphp-queue%E9%98%9F%E5%88%97%E5%AF%BC%E8%87%B4MySQL%20server%20has%20gone%20away.html</id>
+    <published>2020-08-25T02:12:47.000Z</published>
+    <updated>2020-12-14T04:34:22.990Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;thinkphp-queue队列导致MySQL-server-has-gone-away&quot;&gt;&lt;a href=&quot;#thinkphp-queue队列导致MySQL-server-has-gone-away&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="php" scheme="https://thepatterraining.github.io/categories/php/"/>
+    
+    
+      <category term="php" scheme="https://thepatterraining.github.io/tags/php/"/>
+    
+      <category term="thinkphp" scheme="https://thepatterraining.github.io/tags/thinkphp/"/>
+    
+      <category term="queue" scheme="https://thepatterraining.github.io/tags/queue/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>php-mpdf扩展包中文乱码问题</title>
+    <link href="https://thepatterraining.github.io/php-mpdf%E6%89%A9%E5%B1%95%E5%8C%85%E4%B8%AD%E6%96%87%E4%B9%B1%E7%A0%81%E9%97%AE%E9%A2%98.html"/>
+    <id>https://thepatterraining.github.io/php-mpdf%E6%89%A9%E5%B1%95%E5%8C%85%E4%B8%AD%E6%96%87%E4%B9%B1%E7%A0%81%E9%97%AE%E9%A2%98.html</id>
+    <published>2020-08-24T02:12:47.000Z</published>
+    <updated>2020-12-14T04:34:22.990Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;php-mpdf扩展包中文乱码问题&quot;&gt;&lt;a href=&quot;#php-mpdf扩展包中文乱码问题&quot; class=&quot;headerlink&quot; title=&quot;php-mpdf扩展包中文乱码问题&quot;&gt;&lt;/a&gt;php-mpdf扩展包中文乱码问题&lt;/h1&gt;&lt;p&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+    
+      <category term="php" scheme="https://thepatterraining.github.io/categories/php/"/>
+    
+    
+      <category term="php" scheme="https://thepatterraining.github.io/tags/php/"/>
+    
+      <category term="mpdf" scheme="https://thepatterraining.github.io/tags/mpdf/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>thinkphp-tp6使用chunk分块操作数据的坑</title>
+    <link href="https://thepatterraining.github.io/thinkphp-tp6%E4%BD%BF%E7%94%A8chunk%E5%88%86%E5%9D%97%E6%93%8D%E4%BD%9C%E6%95%B0%E6%8D%AE%E7%9A%84%E5%9D%91.html"/>
+    <id>https://thepatterraining.github.io/thinkphp-tp6%E4%BD%BF%E7%94%A8chunk%E5%88%86%E5%9D%97%E6%93%8D%E4%BD%9C%E6%95%B0%E6%8D%AE%E7%9A%84%E5%9D%91.html</id>
+    <published>2020-08-24T02:12:47.000Z</published>
+    <updated>2020-12-14T04:34:22.990Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;thinkphp-tp6使用chunk分块操作数据的坑&quot;&gt;&lt;a href=&quot;#thinkphp-tp6使用chunk分块操作数据的坑&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="php" scheme="https://thepatterraining.github.io/categories/php/"/>
+    
+    
+      <category term="php" scheme="https://thepatterraining.github.io/tags/php/"/>
+    
+      <category term="tp" scheme="https://thepatterraining.github.io/tags/tp/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>php yii2框架前端加载css和js文件的方法</title>
+    <link href="https://thepatterraining.github.io/php%20yii2%E6%A1%86%E6%9E%B6%E5%89%8D%E7%AB%AF%E5%8A%A0%E8%BD%BDcss%E5%92%8Cjs%E6%96%87%E4%BB%B6%E7%9A%84%E6%96%B9%E6%B3%95.html"/>
+    <id>https://thepatterraining.github.io/php%20yii2%E6%A1%86%E6%9E%B6%E5%89%8D%E7%AB%AF%E5%8A%A0%E8%BD%BDcss%E5%92%8Cjs%E6%96%87%E4%BB%B6%E7%9A%84%E6%96%B9%E6%B3%95.html</id>
+    <published>2020-08-21T02:12:47.000Z</published>
+    <updated>2020-12-14T04:33:03.170Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;php-yii2框架前端加载css和js文件的方法&quot;&gt;&lt;a href=&quot;#php-yii2框架前端加载css和js文件的方法&quot; class=&quot;headerlink&quot; title=&quot;php yii2框架前端加载css和js文件的方法&quot;&gt;&lt;/a&gt;php
+        
+      
+    
+    </summary>
+    
+    
+      <category term="php" scheme="https://thepatterraining.github.io/categories/php/"/>
+    
+    
+      <category term="php" scheme="https://thepatterraining.github.io/tags/php/"/>
+    
+      <category term="js" scheme="https://thepatterraining.github.io/tags/js/"/>
+    
+      <category term="yii2" scheme="https://thepatterraining.github.io/tags/yii2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>wsl安装php环境</title>
+    <link href="https://thepatterraining.github.io/wsl%E5%AE%89%E8%A3%85php%E7%8E%AF%E5%A2%83.html"/>
+    <id>https://thepatterraining.github.io/wsl%E5%AE%89%E8%A3%85php%E7%8E%AF%E5%A2%83.html</id>
+    <published>2020-08-21T02:12:47.000Z</published>
+    <updated>2021-02-01T09:26:04.400Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;wsl&quot;&gt;&lt;a href=&quot;#wsl&quot; class=&quot;headerlink&quot; title=&quot;wsl&quot;&gt;&lt;/a&gt;wsl&lt;/h1&gt;&lt;p&gt;wsl是可以在windows里面运行linux的一个软件。是微软官方发行的。&lt;/p&gt;
+&lt;h2 id=&quot;安装php&quot;&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+    
+      <category term="php" scheme="https://thepatterraining.github.io/categories/php/"/>
+    
+    
+      <category term="php" scheme="https://thepatterraining.github.io/tags/php/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>如何生成ssh-key</title>
+    <link href="https://thepatterraining.github.io/%E5%A6%82%E4%BD%95%E7%94%9F%E6%88%90ssh-key.html"/>
+    <id>https://thepatterraining.github.io/%E5%A6%82%E4%BD%95%E7%94%9F%E6%88%90ssh-key.html</id>
+    <published>2020-08-21T02:12:47.000Z</published>
+    <updated>2020-12-14T04:33:04.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;如何生成ssh-key&quot;&gt;&lt;a href=&quot;#如何生成ssh-key&quot; class=&quot;headerlink&quot; title=&quot;如何生成ssh-key&quot;&gt;&lt;/a&gt;如何生成ssh-key&lt;/h1&gt;&lt;p&gt;打开命令终端，或者使用&lt;code&gt;git
+        
+      
+    
+    </summary>
+    
+    
+      <category term="ssh" scheme="https://thepatterraining.github.io/categories/ssh/"/>
+    
+    
+      <category term="ssh" scheme="https://thepatterraining.github.io/tags/ssh/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>深入理解计算机系统一--Amdahl定律</title>
+    <link href="https://thepatterraining.github.io/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E4%B8%80--Amdahl%E5%AE%9A%E5%BE%8B.html"/>
+    <id>https://thepatterraining.github.io/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E4%B8%80--Amdahl%E5%AE%9A%E5%BE%8B.html</id>
+    <published>2020-08-21T02:12:47.000Z</published>
+    <updated>2020-12-14T04:33:03.110Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;Amdahl定律&quot;&gt;&lt;a href=&quot;#Amdahl定律&quot; class=&quot;headerlink&quot; title=&quot;Amdahl定律&quot;&gt;&lt;/a&gt;Amdahl定律&lt;/h1&gt;&lt;p&gt;Gene
+        
+      
+    
+    </summary>
+    
+    
+      <category term="计算机" scheme="https://thepatterraining.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/"/>
+    
+    
+      <category term="计算机" scheme="https://thepatterraining.github.io/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>深入理解计算机系统一--c程序发生了什么</title>
+    <link href="https://thepatterraining.github.io/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E4%B8%80--c%E7%A8%8B%E5%BA%8F%E5%8F%91%E7%94%9F%E4%BA%86%E4%BB%80%E4%B9%88.html"/>
+    <id>https://thepatterraining.github.io/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E4%B8%80--c%E7%A8%8B%E5%BA%8F%E5%8F%91%E7%94%9F%E4%BA%86%E4%BB%80%E4%B9%88.html</id>
+    <published>2020-08-21T02:12:47.000Z</published>
+    <updated>2020-12-14T04:33:03.250Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;计算机系统漫游&quot;&gt;&lt;a href=&quot;#计算机系统漫游&quot; class=&quot;headerlink&quot; title=&quot;计算机系统漫游&quot;&gt;&lt;/a&gt;计算机系统漫游&lt;/h1&gt;&lt;p&gt;计算机系统是由硬件和系统软件组成的，它们共同工作来运行应用程序。。虽然系统的
+        
+      
+    
+    </summary>
+    
+    
+      <category term="计算机" scheme="https://thepatterraining.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/"/>
+    
+    
+      <category term="计算机" scheme="https://thepatterraining.github.io/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA/"/>
+    
+  </entry>
+  
+</feed>
